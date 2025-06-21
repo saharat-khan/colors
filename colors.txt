@@ -5,5 +5,4 @@ green
 blue
 indigo
 violet
-bad one
 good one
